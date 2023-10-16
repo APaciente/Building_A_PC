@@ -1,7 +1,7 @@
 # Building_A_PC Assignment in Infomation Systems
 
 # Building a PC for a receptionist
-- A receptionist is someone who is the face of the company, someone who is the first comtact with clients.
+- A receptionist is the face of the company, you are the first contact with company's visitors and clients.
 - Building a custom PC for a receptionist, you must take consideration the work load as well as the appearance you make to your clients.
 - This custom PC is built to manage the day-to-day workload a receptionist needs.
 
