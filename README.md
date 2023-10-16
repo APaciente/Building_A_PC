@@ -1,4 +1,4 @@
-theme: Midnight
+?theme=dark
 # Building_A_PC Assignment in Infomation Systems
 
 # Building a PC for a receptionist
